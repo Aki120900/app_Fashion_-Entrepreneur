@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Fashion Entrepreneur
-//
-//  Created by Alexandra Pastouchova on 18/06/2024.
-//
-
 import SwiftUI
 
 struct ContentView: View {
